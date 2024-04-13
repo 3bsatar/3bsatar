@@ -12,6 +12,8 @@
 
 - 👯 I’m looking to collaborate on **Big Valuable Projects**
 
+- 💬 Ask me about **Manual and Automation Testing**
+
 <!--- - ⚒️ Currently working on a simple Operating system and DataMining-Algorithms-ToolKit Python package  -->
 
 <!--- - 🤝 I’m looking for help with **Finding internship or part-time job** -->
@@ -22,7 +24,6 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-mesalem/](https://www.linkedin.com/in/mahmoud-mesalem/)
 
-- 💬 Ask me about **Manual and Automation Testing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
