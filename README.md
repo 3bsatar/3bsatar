@@ -18,7 +18,7 @@
 
 <!--- - 🤝 I’m looking for help with **Finding internship or part-time job** -->
 
-- 📄 Know about my experiences [https://MAHMOUDMESALEM.github.io/resume/](https://MAHMOUDMESALEM.github.io/resume/)
+- 📄 Know about my experiences [https://3bsatar.github.io/resume/](https://3bsatar.github.io/resume/)
 
 - 📫 How to reach me: **mahmoudmesalem23@gmail.com**
 
