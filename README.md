@@ -38,7 +38,6 @@
 
 <h3 align="center">A passionate software testing engineer from Egypt</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
