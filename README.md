@@ -22,7 +22,7 @@
 
 - 📫 How to reach me: **mahmoudmesalem23@gmail.com**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-mesalem/](https://www.linkedin.com/in/mahmoud-mesalem/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud--mesalem/](https://www.linkedin.com/in/mahmoud--mesalem/)
 
 
 <h3 align="left">Connect with me:</h3>
