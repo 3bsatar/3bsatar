@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Mesalem&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMOUDMESALEM" /> </p>
 
-- 🌱 I’m currently a **Software Testing Engineer, ISTQB®-Certified Tester Foundation Level, ISTQB®-Certified Agile Tester and ISTQB®-Certified Mobile Application Tester**
+- 🌱 I’m currently a **Software Testing Engineer, ISTQB®-Certified Tester Foundation Level, Certified Agile Tester, and Certified Mobile Application Tester**
 
 - 👯 I’m looking to collaborate on **Big Valuable Projects**
 
