@@ -27,12 +27,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahmoud-mesalem/">
+<a href="https://www.linkedin.com/in/mahmoud--mesalem/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="30">
 </a>
 
-<a href="https://www.facebook.com/mhmoud.mido.52/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef a. elkmmar" width="40" height="30">
+<a href="https://www.facebook.com/mahmoud.mesalem.2025">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mahmoud mesalem" width="40" height="30">
 </a>
 </p>
 
